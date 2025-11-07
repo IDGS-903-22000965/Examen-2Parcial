@@ -1,4 +1,4 @@
-const API_URL = "https://localhost:7047/api";
+const API_URL = "https://backendcongreso.onrender.com/api";
 
 const participantesService = {
   obtenerListado: async () => {
